@@ -12,7 +12,7 @@ using namespace std;
 
 const int MAX = 100; //size of array
 
-template <class Type>
+template <class T>
 class Stack
 {
 private:
