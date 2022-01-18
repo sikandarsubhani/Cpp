@@ -16,7 +16,7 @@ private:
 int data1;
 public:
 A() : data1(99) { } //constructor
-friend class beta;   //beta is a friend class
+friend class B;   //B is a friend class
 };
 class B
 { public:
