@@ -20,7 +20,7 @@ friend class B;   //B is a friend class
 };
 class B
 { public:
-void func1(alpha a) { cout << "\ndata1=" << a.data1;
+void func1(A a) { cout << "\ndata1=" << a.data1;
 };
  
  
